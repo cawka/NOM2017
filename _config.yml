@@ -1,0 +1,70 @@
+safe: false
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+lsi: true
+highlighter: rouge
+markdown: kramdown
+exclude: ['_DOCS', '_SCRIPTS', '.travis.yml', '.travis.d', '.sass-cache', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'LICENSE.md']
+sass:
+  style: compressed
+encoding: UTF-8
+
+url: http://infocom-nom-17.cs.ucla.edu/
+baseurl: 
+github_source: https://github.com/cawka/NOM2017
+
+# Configuration for site
+title: "INFOCOM 2017 NOM Workshop"
+text_logo:
+- text: INFOCOM 2017
+  tag: h2
+- text: NOM Workshop
+  link: /
+  tag: h1
+- text: "The fourth Workshop on Name-Oriented Mobility: Architecture, Algorithms and Applications"
+  tag: p
+dates: May 1, 2017, Atlanta, GA, USA
+# logo:
+#   image: images/.png
+  
+google_analytics_id: UA-85406201-1
+
+# Configuration for navbar.html
+menu:
+- name: Home
+  url: /
+  icon: fa-home
+- name: Call for Papers
+  icon: fa-bullhorn
+  url: /cfp.html
+- name: Committees
+  url: /committees.html
+  icon: fa-users
+- name: Submission
+  icon: fa-paper-plane-o
+  url: /submission.html
+# - name: Registration
+#   url: /registration.html
+# - name: Program
+#   url: /program.html
+- name: Venue
+  icon: fa-map
+  url: /venue.html
+- name: Previous Workshops
+  icon: fa-history
+  submenu:
+    - name: NOM'2016
+      url: http://infocom-nom-16.cs.ucla.edu/
+    - name: NOM'2014
+      url: http://infocom2014.ieee-infocom.org/Workshops_NOM_TP.html
+    - name: NOM'2012
+      url: http://www.sigmobile.org/mobihoc/2012/workshops.html
+
+colors:
+  highlight: 07536f
+  highlight-darker: 07536f
+  hfont: ffffff
+
+  program:
+    break-background: ffb300

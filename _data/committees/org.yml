@@ -1,0 +1,48 @@
+- role: Workshop Chairs
+  people:
+  - name:        Jun Bi
+    affiliation: Tsinghua University, China
+    homepage:    http://netarchlab.tsinghua.edu.cn/~junbi/
+    email:       junbi@tsinghua.edu.cn
+
+  - name:        Bertrand Mathieu
+    affiliation: Orange, France
+    homepage:
+    email:       bertrand2.mathieu@orange.com
+
+  - name:        Alex Afanasyev
+    affiliation: University of California, Los Angeles, USA
+    homepage:    http://lasr.cs.ucla.edu/afanasyev/index.html
+    email:       aa@cs.ucla.edu
+
+- role: Publications Chair
+  people:
+  - name:        Bingyang Liu
+    affiliation: Tsinghua University, China,
+    homepage:
+    email:       liubingyang@tsinghua.edu.cn
+
+- role: Workshop Steering Committee
+  people:
+  - name:        Lixia Zhang
+    affiliation: University of California, Los Angeles
+    homepage:    http://web.cs.ucla.edu/~lixia/
+    email:       lixia@cs.ucla.edu
+
+  - name:        Giovanni Pau
+    affiliation: University Pierre et Marie Curie/LIP6, Paris, France
+    homepage:    https://www.lip6.fr/actualite/personnes-fiche.php?nom=Pau
+  
+  - name:        Jun Bi
+    affiliation: Tsinghua University, China
+    homepage:    http://netarchlab.tsinghua.edu.cn/~junbi/
+    email:       junbi@tsinghua.edu.cn
+
+  - name:        Bertrand Mathieu
+    affiliation: Orange, France
+    homepage:
+    email:       bertrand2.mathieu@orange.com
+
+  - name:        Hassnaa Moustafa
+    affiliation: Intel Corporation, USA
+    homepage:    
